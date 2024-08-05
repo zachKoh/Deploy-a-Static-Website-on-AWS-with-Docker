@@ -8,6 +8,7 @@ Instructions on how I deployed a Static Web App on AWS with Docker, Amazon ECR, 
 
 **Created Dockerfile**
 - Created the dockerfile using this script
+
 ```bash
 #!/bin/bash
 sudo su
